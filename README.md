@@ -1,5 +1,5 @@
 # THEMER
-Base structure for theme management applying clean architecture and vertical slicing. The project uses Riverpod  with annotations as a status manager.
+Base structure for theme management applying clean architecture and vertical slicing. The project uses Riverpod  with annotations as a state manager.
 This template provides simple UI and scalable project structure to start creating an application, it is only necessary to provide a data source with the colors we want.
 
 <p align="center">
